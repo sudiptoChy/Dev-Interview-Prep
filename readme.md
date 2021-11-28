@@ -1,12 +1,14 @@
-## :sparkles: Grandfather
-
+## :sparkles: Top Level Topics
  1. **Data Structures and Algorithm**
  2. **Design Patterns**
  3. **Low Level System Design**
  4. **High Level System Design**
- 5. **Technical Concepts**
- 6. **Framework (React/Angular/Vue)**
+ 5. **Backend**
+ 6. **Frontend**
+ 7. **JavaScript**
+ 8. **DevOps**
 
+    ## :white_check_mark: JavaScript
 	 - [ ] Technical Concepts
 		 - [ ] JavaScript Language (Core)
             - [ ] Basic
